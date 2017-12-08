@@ -14,17 +14,7 @@ type        : 'Usage'
   <h2 class="ui dividing header">Starter</h2>
   <p>Examples to introduce components and their function</p>
   <div class="ui three stackable doubling cards">
-    <a class="ui card" href="/examples/theming.html">
-      <div class="image">
-        <img src="/images/examples/theming.png">
-      </div>
-      <div class="content">
-        <div class="header">Theming</div>
-        <div class="description">
-          Examples of many common UI components, useful for testing custom themes.
-        </div>
-      </div>
-    </a>
+    
     <a class="ui card" href="/examples/responsive.html">
       <div class="image">
         <img src="/images/examples/responsive.png">
